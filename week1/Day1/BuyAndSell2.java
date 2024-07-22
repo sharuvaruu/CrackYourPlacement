@@ -22,7 +22,8 @@ public int maxProfit(int[] prices) {
     transaction if the last day's price is 
     higher than the last buying price. 
     This step captures 
-    the profit from any upward trend that might have continued to the last day.*/
+    the profit from any upward trend that might have continued to the last day.
+    simply qk agar upward tren raha to*/
     profit += prices[prices.length - 1] - buy;
 
     // Return the total profit
