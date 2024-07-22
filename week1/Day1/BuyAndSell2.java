@@ -18,6 +18,11 @@ public int maxProfit(int[] prices) {
     }
 
     // After the loop, calculate the profit from selling on the last day
+    /* After the loop, we must check the last 
+    transaction if the last day's price is 
+    higher than the last buying price. 
+    This step captures 
+    the profit from any upward trend that might have continued to the last day.*/
     profit += prices[prices.length - 1] - buy;
 
     // Return the total profit
