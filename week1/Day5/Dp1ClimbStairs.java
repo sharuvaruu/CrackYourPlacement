@@ -1,3 +1,4 @@
+//https://leetcode.com/problems/climbing-stairs/description/
 class Solution {
     public int climbStairs(int n) {
         if(n==1) return 1;//qk agar ek hi stair rahi to 1 hi step se kaam honga
