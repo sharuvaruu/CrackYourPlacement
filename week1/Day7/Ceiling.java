@@ -42,4 +42,3 @@ class Main
          System.out.println("ceiling of "+x+" is "+arr[index]);
     }  
 }
-Output
