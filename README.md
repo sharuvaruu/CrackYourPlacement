@@ -16,12 +16,6 @@ Welcome to my 45-day DSA challenge repository! Here, I’m documenting my progre
 2. Maintain your progress by adding your solutions in a structured manner.
 3. Share your journey on LinkedIn/Twitter/Instagram with the hashtags #CrackYourInternship or #CrackYourPlacement.
 
-## 🏆 Benefits
-- **Interview-Ready:** Prepare for internship and placement season.
-- **Mentorship:** Get guidance from industry experts.
-- **Referrals:** Receive referrals to your dream companies.
-- **Prizes:** Win exciting prizes for consistency and performance.
-
 ## 📫 Connect with Me
 - **LinkedIn:** [Sharvari Salodkar](https://www.linkedin.com/in/sharvari-salodkar-587b611a5/)
 - **GitHub:** [sharuvaruu](https://github.com/sharuvaruu)
