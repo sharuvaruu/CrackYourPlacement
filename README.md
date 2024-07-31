@@ -6,9 +6,10 @@ Welcome to my 45-day DSA challenge repository! Here, I’m documenting my progre
 - 45 Days
 
 ## 🗂️ Repository Structure
-- **Week1/Day1**: [Solved question 1](./Week1/Day1)
-- **Week1/Day2**: [Solved question 2](./Week1/Day2)
-- **Week2/Day1**: [Solved question 3](./Week2/Day1)
+ **Week 1**
+  - **Day 1**: [Solved question 1](https://github.com/sharuvaruu/CrackYourPlacement/tree/master/week1/Day1)
+  - **Day 2**: [Solved question 2](https://github.com/sharuvaruu/CrackYourPlacement/tree/master/week1/Day2)
+  - **Day 3**: [Solved question 3](https://github.com/sharuvaruu/CrackYourPlacement/tree/master/week1/Day3)
 - and so on...
 
 ## 🚀 How to Participate
