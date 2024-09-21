@@ -1,9 +1,9 @@
 # CrackYourPlacement Challenge
 
-Welcome to my 45-day DSA challenge repository! Here, I’m documenting my progress and solutions to a curated set of questions designed to enhance my problem-solving skills and prepare for tech interviews.
+Welcome to my  DSA challenge repository! Here, I’m documenting my progress and solutions to a curated set of questions designed to enhance my problem-solving skills and prepare for tech interviews.
 
 ## 📅 Challenge Duration
-- 45 Days
+- Forever
 
 ## 🗂️ Repository Structure
  **Week 1**
